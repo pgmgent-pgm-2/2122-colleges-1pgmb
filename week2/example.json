@@ -1,0 +1,17 @@
+{
+    "isFemale": true,
+    "age": 34,
+    "data": null,
+    "firstname": "Johnny",
+    "addresses": [
+        {
+            "street": "koekoekstraat"
+        },
+        {
+            "street": "localhost"
+        }
+    ],
+    "socials": {
+        "twitter": "http://www.twitter/fvbmvr"
+    }
+}
