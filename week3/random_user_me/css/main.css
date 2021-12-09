@@ -23,35 +23,9 @@ body {
 
   height: 100vh;
 
-  background: url('https://www.tvqc.com/wp-content/uploads/2020/06/chuck-norris.jpg') no-repeat center center;
-  background-size: cover;
-
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
   align-items: center;
   justify-content: flex-end;
-
-  animation: bkgndAnimation 10000ms ease-in-out 0s infinite;
-}
-
-@keyframes bkgndAnimation {
-  0% { filter: hue-rotate(0deg); }
-  50% { filter: hue-rotate(180deg); }
-  100% { filter: hue-rotate(0deg);}  
-}
-
-.chuck-norris {
-  width: 75vw;
-
-  background: var(--color-cn-blue);
-  box-shadow: 0px 0px 8px var(--color-cn-dark-blue);
-
-  margin-bottom: 1rem;
-}
-
-.chuck-norris .joke {
-  font-size: 1.6rem;
-  color: var(--color-cn-dark-blue);
-  padding: 0.8em;
 }
