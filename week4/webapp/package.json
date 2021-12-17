@@ -8,7 +8,7 @@
     "node": "16.13.1"
   },
   "scripts": {
-    "dev": "node src/app.js"
+    "dev": "nodemon src/app.js --watch src/*"
   },
   "keywords": [
     "pgm",
