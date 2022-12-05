@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Adriaan",
+    "age": 28,
+    "isMale": true,
+    "hobbies": ["Running", "Racing", "Badminton"]
+  },
+  {
+    "firstName": "Maarten",
+    "age": 25,
+    "isMale": true,
+    "hobbies": ["Tekenen", "Piano"]
+  },
+  {
+    "firstName": "Rasul",
+    "age": 19,
+    "isMale": true,
+    "hobbies": ["Karaoke", "MMA"]
+  },
+  {
+    "firstName": "Markha",
+    "age": 22,
+    "isMale": false,
+    "hobbies": ["Netflix", "Slapen"]
+  }
+]
