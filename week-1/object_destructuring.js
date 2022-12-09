@@ -30,3 +30,11 @@ const drawChart = (size = sizes.BIG, {x, y} = {x: 0, y: 0}, radius = 50) => {
 };
 
 drawChart(undefined, {x: 20, y: 60});
+
+
+const {message, code} = {
+    message: 'Er is iets misgegaan.',
+    code: '502'
+};
+
+console.log(message, code);
